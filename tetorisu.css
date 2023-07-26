@@ -1,0 +1,20 @@
+span[data-i="0"]{
+  color: rgb(236, 21, 21);
+  font-size: large;
+  font-weight: 700;
+}
+span[data-i="1"]{
+  color: rgb(240, 145, 12);
+  font-size: large;
+  font-weight: 700;
+}
+span[data-i="2"]{
+  color: rgb(0, 255, 60);
+  font-size: large;
+  font-weight: 700;
+}
+span[data-i="3"]{
+  color: rgb(34, 0, 255);
+  font-size: large;
+  font-weight: 700;
+}
